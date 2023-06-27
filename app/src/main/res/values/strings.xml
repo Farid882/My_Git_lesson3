@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">My Git lesson3</string>
+    <string name="my_picture">My picture</string>
+    <string name="hey_guys">Hey guys!</string>
+    <string name="meet_me_world">Meet me,world!</string>
 </resources>
